@@ -46,7 +46,6 @@ class Main(QMainWindow):
         
          
     def Home(self):
-        print("1")
         
         QMainWindow.setCentralWidget(self, self.default_widget)
         
